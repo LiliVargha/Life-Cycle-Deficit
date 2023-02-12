@@ -27,7 +27,7 @@ The lifecycle deficit/surplus (LCD) is defined as age specific consumption (C) l
 4. [World Population Prospects 2022](https://population.un.org/wpp/) (United Nations, DESA, Population Division: WPP 2022) and [wpp2022 R package](https://github.com/PPgp/wpp2022)
 
 ## Replication files
-The files for replication is [cluster.R](https://github.com/LiliVargha/Labour-Income_YL/blob/main/cluster.R) for total labour income age profiles and [YL_byGender.R](https://github.com/LiliVargha/Labour-Income_YL/blob/main/YL_byGender.R) for gender specific labour income age profiles. The files contain explanations, different visualizations and types of clustering.
+The files for replication is [cluster.R](https://github.com/LiliVargha/Life-Cycle-Deficit_LCD/blob/main/cluster.R) for total labour income age profiles and [LCD_byGender.R](https://github.com/LiliVargha/Life-Cycle-Deficit_LCD/blob/main/LCD_byGender.R) for gender specific labour income age profiles. The files contain explanations, different visualizations and types of clustering.
 
 ## References
 Lili Vargha, Tanja Istenič: Towards a Typology of Economic Lifecycle Patterns. [Presentation at NTA14 Paris](https://ntaccounts.org/web/nta/show/Documents/Meetings/NTA14%20Abstracts), 15 February 2023
