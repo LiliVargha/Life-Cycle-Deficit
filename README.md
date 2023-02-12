@@ -14,7 +14,7 @@ The lifecycle deficit/surplus (LCD) is defined as age specific consumption (C) l
 
 ## Life Cycle Deficit by gender and age
 
-### FIGURE 3: Life Cycle Deficit by gender and age in 39 countries
+### FIGURE 3: Life Cycle Deficit by gender and age in 39 countries ordered by the age of deficit/surplus transition of women
 
 ![Image](https://user-images.githubusercontent.com/68189671/218336215-a4aaf882-9e26-412e-b849-ff477f3f9505.jpg)
 
