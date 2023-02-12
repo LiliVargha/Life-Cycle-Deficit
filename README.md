@@ -3,9 +3,9 @@
 This repository contains the replication file for clustering Life Cycle Deficit (LCD) age profiles and visualizing the results using line plots and heatmaps for 77 countries, and for gender specific LCD age profiles for 39 countries.
 
 ### FIGURE 1: Life cycle deficit age profile clusters (N=77, 2002-2016)
-![Image](https://user-images.githubusercontent.com/68189671/217647319-f69bb149-8f31-4e6b-b0da-546720cd6ed4.jpg)
+![Image](https://user-images.githubusercontent.com/68189671/218335143-b0374c7c-f5ca-4f89-b024-d082f8c43f54.jpg)
 ### FIGURE 2: Life cycle deficit by age and clusters in 77 countries (2002-2016)
-![Image](https://user-images.githubusercontent.com/68189671/217647508-ee6cad5b-1d2d-465d-9f33-a14c6cab9b5f.jpg)
+![Image](https://user-images.githubusercontent.com/68189671/218335529-b7b89352-2352-4b30-a787-9a2b78f4f5c4.jpg)
 
 [Download FIGURE 1](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTG.jpg)
 [Download FIGURE 2](https://github.com/LiliVargha/Public-Transfers_TG/blob/main/ClusterTGtiles.jpg)
