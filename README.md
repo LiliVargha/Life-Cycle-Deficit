@@ -31,7 +31,8 @@ Lili Vargha, Bernhard Binder-Hammer, Gretchen Donehower, and Tanja Istenič: [In
 
 ## Future versions will
 - Include newest NTA data.
-- Use different ordering (for example by continents).
+- Use different ordering (for example by continents, by total aggregate life cycle surplus).
+- Add household economy LCD estimated using time use surveys
 
 ## Also check the following repositories
 - [Labour income by age in 77 countries and labour income by gender and by age in 39 countries](https://github.com/LiliVargha/Labour-Income_YL)
